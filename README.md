@@ -104,16 +104,19 @@ The goal is to track and improve logistics performance by:
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Overview
-![Overview](screenshots/overview.png)
+![Overview](dashboard_screenshots/overview_dashboard.png)
 
 ### 🔹 Hub Analysis
-![Hubs](screenshots/hubs.png)
+![Hubs](dashboard_screenshots/hub.png)
 
 ### 🔹 Driver Analysis
-![Drivers](screenshots/drivers.png)
+![Drivers](dashboard_screenshots/driver.png)
 
 ### 🔹 Vehicle Analysis
-![Vehicles](screenshots/vehicles.png)
+![Vehicles](dashboard_screenshots/vehicles.png)
+
+### 🔹 KPIs
+![KPIs](dashboard_screenshots/kpis.png)
 
 ---
 
@@ -137,20 +140,6 @@ The goal is to track and improve logistics performance by:
 
 ---
 
-## 📂 Project Structure
-
-logistics-dashboard-powerbi/
-│
-├── Logistics_Dashboard.pbix
-├── dataset.csv
-├── screenshots/
-│   ├── overview.png
-│   ├── hubs.png
-│   ├── drivers.png
-│   └── vehicles.png
-└── README.md
-
----
 
 ## 🔗 Future Improvements
 - Add real-time data integration  
